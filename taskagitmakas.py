@@ -37,4 +37,5 @@ while(can!=0):
             puan+=10
     else:
         print("lutfen gecerli bir secim yapiniz.")
+print("puaniniz: "+ str(puan)) #Burada puan değişkenini str() fonksiyonu ile string'e dönüştürdük.
 
